@@ -1,0 +1,11 @@
+date;type;amount;category;note
+2026-09-01;income;45000.00;salary;september
+2026-09-02;expense;12000.00;rent;
+2026-09-03;expense;850.50;food;supermarket
+2026-09-05;expense;320.00;transport;metro card
+2026-09-10;expense;1299.99;education;c++ book
+2026-09-12;income;5000.00;freelance;small website
+2026-09-15;expense;2340.00;food;
+2026-09-20;expense;600.00;fun;cinema
+2026-10-01;income;45000.00;salary;october
+2026-10-02;expense;12000.00;rent;
